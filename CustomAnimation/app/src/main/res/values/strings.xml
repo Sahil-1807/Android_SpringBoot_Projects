@@ -1,0 +1,15 @@
+<resources>
+    <string name="add_employee_button">Add Employee</string>
+    <string name="show_all_employee_button">Show All Employee</string>
+
+    <string name="app_name">Custom Animation</string>
+    <string name="form_name">Name</string>
+    <string name="form_branch">Branch</string>
+    <string name="form_location">Location</string>
+    <string name="button_save_employee">Save Employee</string>
+
+    <string name="employee_name">Employee Name</string>
+    <string name="employee_location">Location</string>
+    <string name="employee_branch">Branch</string>
+
+</resources>
